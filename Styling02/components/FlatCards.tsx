@@ -1,7 +1,7 @@
 import { View, Text, StyleSheet } from 'react-native';
 import React from 'react';
 
-function FlatCards() {
+const  FlatCards = () => {
   return (
     <View>
       <Text style={styles.heading}>FlatCards</Text>
